@@ -1,2 +1,2 @@
 # VenusDB
-Self-made Venus atmosphere database: temperature, pressure, spectroscopy
+Self-made Venus atmosphere database: temperature, pressure, spectroscopy, solar spectrum, etc.
